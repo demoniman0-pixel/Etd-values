@@ -2,9 +2,9 @@ const units = [
   // --- Скриншот 1: Нижний ряд (Mythic) ---
   { name: "Banker", value: "150,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Banker" },
   { name: "Star Searcher", value: "120,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Star+Searcher" },
-  { name: "Swimmer", value: "100,000", demand: "Low", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Swimmer" },
+  { name: "Swimmer", value: "100,000", demand: "Low", rarity: "Mythic", image: "https://i.ibb.co/1tfxH0R8/IMG-20260904-225705.jpg" },
   { name: "Mermaid", value: "150,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Mermaid" },
-  { name: "Seashell", value: "150,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Seashell" },
+  { name: "Seashell", value: "150,000", demand: "Medium", rarity: "Mythic", image: "https://i.ibb.co/rffVFc4g/IMG-20260904-225805.jpg" },
 
   // --- Скриншот 1: Средний ряд (Mythic) ---
   { name: "Soul Reaper", value: "200,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Soul+Reaper" },
