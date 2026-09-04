@@ -18,7 +18,7 @@ const units = [
   { name: "Shinobi", value: "70,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/G3dsk01M/IMG-20260905-000813.jpg" },
   { name: "Yeti", value: "70,000", demand: "Medium", rarity: "Mythic", image: "https://i.ibb.co/4wpf6mqq/IMG-20260905-000705.jpg" },
   { name: "Builder", value: "70,000", demand: "Low", rarity: "Mythic", image: "https://i.ibb.co/tpxcDGhr/IMG-20260905-000411.jpg" },
-  { name: "Goblin Wizard", value: "70,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Goblin+Wizard" },
+  { name: "Goblin Wizard", value: "70,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/YT8ks3kG/IMG-20260905-000445.jpg" },
   { name: "Dark Jonin", value: "70,000", demand: "Insane", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Dark+Jonin" },
   { name: "Ghost Pirate", value: "70,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Ghost+Pirate" },
 
@@ -28,7 +28,7 @@ const units = [
   { name: "Range Bean", value: "70,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Range+Bean" },
   { name: "Excalibur", value: "100,000", demand: "Insane", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Excalibur" },
   { name: "Sunflower", value: "70,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Sunflower" },
-  { name: "Minigunner", value: "70,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Minigunner" },
+  { name: "Minigunner", value: "70,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/kskdW21n/IMG-20260905-000639.jpg" },
 
   // --- Скриншот 2: Средний ряд (Legendary) ---
   { name: "Arcane Mage", value: "2,000", demand: "Low", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Arcane+Mage" },
