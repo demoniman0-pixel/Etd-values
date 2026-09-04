@@ -1,34 +1,34 @@
 const units = [
   // --- Скриншот 1: Нижний ряд (Mythic) ---
   { name: "Banker", value: "150,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Banker" },
-  { name: "Star Searcher", value: "120,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Star+Searcher" },
-  { name: "Swimmer", value: "100,000", demand: "Low", rarity: "Mythic", image: "https://i.ibb.co/1tfxH0R8/IMG-20260904-225705.jpg" },
-  { name: "Mermaid", value: "150,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/HDnjFqr3/IMG-20260904-225609.jpg" },
-  { name: "Seashell", value: "150,000", demand: "Medium", rarity: "Mythic", image: "https://i.ibb.co/rffVFc4g/IMG-20260904-225805.jpg" },
+  { name: "Star Searcher", value: "150,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Star+Searcher" },
+  { name: "Swimmer", value: "80,000", demand: "medium", rarity: "Mythic", image: "https://i.ibb.co/1tfxH0R8/IMG-20260904-225705.jpg" },
+  { name: "Mermaid", value: "100,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/HDnjFqr3/IMG-20260904-225609.jpg" },
+  { name: "Seashell", value: "95,000", demand: "Medium", rarity: "Mythic", image: "https://i.ibb.co/rffVFc4g/IMG-20260904-225805.jpg" },
 
   // --- Скриншот 1: Средний ряд (Mythic) ---
   { name: "Soul Reaper", value: "200,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Soul+Reaper" },
-  { name: "Electrician", value: "100,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Electrician" },
-  { name: "Alchemist", value: "100,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Alchemist" },
+  { name: "Electrician", value: "100,000", demand: "low", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Electrician" },
+  { name: "Alchemist", value: "120,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Alchemist" },
   { name: "White Ninja", value: "80,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=White+Ninja" },
   { name: "Diamond White", value: "200,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Diamond+White" },
   { name: "Snake", value: "100,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Snake" },
 
   // --- Скриншот 1: Верхний ряд (Mythic) ---
-  { name: "Shinobi", value: "70,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/G3dsk01M/IMG-20260905-000813.jpg" },
-  { name: "Yeti", value: "70,000", demand: "Medium", rarity: "Mythic", image: "https://i.ibb.co/4wpf6mqq/IMG-20260905-000705.jpg" },
-  { name: "Builder", value: "70,000", demand: "Low", rarity: "Mythic", image: "https://i.ibb.co/tpxcDGhr/IMG-20260905-000411.jpg" },
-  { name: "Goblin Wizard", value: "70,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/YT8ks3kG/IMG-20260905-000445.jpg" },
-  { name: "Dark Jonin", value: "70,000", demand: "Insane", rarity: "Mythic", image: "https://i.ibb.co/1tFj8ZSJ/IMG-20260905-000512.jpg" },
-  { name: "Ghost Pirate", value: "70,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/mCqRz8Cx/IMG-20260905-000623.jpg" },
+  { name: "Shinobi", value: "50,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/G3dsk01M/IMG-20260905-000813.jpg" },
+  { name: "Yeti", value: "45,000", demand: "low", rarity: "Mythic", image: "https://i.ibb.co/4wpf6mqq/IMG-20260905-000705.jpg" },
+  { name: "Builder", value: "50,000", demand: "medium", rarity: "Mythic", image: "https://i.ibb.co/tpxcDGhr/IMG-20260905-000411.jpg" },
+  { name: "Goblin Wizard", value: "45,000", demand: "low", rarity: "Mythic", image: "https://i.ibb.co/YT8ks3kG/IMG-20260905-000445.jpg" },
+  { name: "Dark Jonin", value: "60,000", demand: "medium", rarity: "Mythic", image: "https://i.ibb.co/1tFj8ZSJ/IMG-20260905-000512.jpg" },
+  { name: "Ghost Pirate", value: "50,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/mCqRz8Cx/IMG-20260905-000623.jpg" },
 
   // --- Скриншот 2: Нижний ряд (Legendary & Mythic) ---
   { name: "Groll", value: "1000", demand: "Low", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Groll" },
   { name: "Sniper King", value: "50,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Sniper+King" },
-  { name: "Range Bean", value: "70,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Range+Bean" },
-  { name: "Excalibur", value: "100,000", demand: "Insane", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Excalibur" },
-  { name: "Sunflower", value: "70,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Sunflower" },
-  { name: "Minigunner", value: "70,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/kskdW21n/IMG-20260905-000639.jpg" },
+  { name: "Range Bean", value: "35,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Range+Bean" },
+  { name: "Excalibur", value: "35,000", demand: "Insane", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Excalibur" },
+  { name: "Sunflower", value: "25,000", demand: "Medium", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Sunflower" },
+  { name: "Minigunner", value: "30,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/kskdW21n/IMG-20260905-000639.jpg" },
 
   // --- Скриншот 2: Средний ряд (Legendary) ---
   { name: "Arcane Mage", value: "2,000", demand: "Low", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Arcane+Mage" },
