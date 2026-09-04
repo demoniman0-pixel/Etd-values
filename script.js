@@ -24,8 +24,8 @@ const units = [
 
   // --- Скриншот 2: Нижний ряд (Legendary & Mythic) ---
   { name: "Groll", value: "1000", demand: "Low", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Groll" },
-  { name: "Sniper King", value: "50,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Sniper+King" },
-  { name: "Range Bean", value: "35,000", demand: "High", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Range+Bean" },
+  { name: "Sniper King", value: "50,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/W45rST2n/IMG-20260905-000604.jpg" },
+  { name: "Range Bean", value: "35,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/PZWYG7KF/IMG-20260905-000540.jpg" },
   { name: "Excalibur", value: "35,000", demand: "Insane", rarity: "Mythic", image: "https://i.ibb.co/4ggyN51R/IMG-20260905-000319.jpg" },
   { name: "Sunflower", value: "25,000", demand: "Medium", rarity: "Mythic", image: "https://i.ibb.co/R42VdrSz/IMG-20260905-000350.jpg" },
   { name: "Minigunner", value: "30,000", demand: "High", rarity: "Mythic", image: "https://i.ibb.co/kskdW21n/IMG-20260905-000639.jpg" },
