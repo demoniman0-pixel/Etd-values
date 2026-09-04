@@ -16,19 +16,19 @@ const units = [
 
   // --- Скриншот 1: Верхний ряд (Mythic) ---
   { name: "Shinobi", value: "60,000", demand: 7, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/G3dsk01M/IMG-20260905-000813.jpg" },
-  { name: "Yeti", value: "45,000", demand: 2, trend: "dropping", rarity: "Mythic", image: "https://i.ibb.co/4wpf6mqq/IMG-20260905-000705.jpg" },
+  { name: "Yeti", value: "50,000", demand: 2, trend: "dropping", rarity: "Mythic", image: "https://i.ibb.co/4wpf6mqq/IMG-20260905-000705.jpg" },
   { name: "Builder", value: "50,000", demand: 5, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/tpxcDGhr/IMG-20260905-000411.jpg" },
   { name: "Goblin Wizard", value: "45,000", demand: 2, trend: "dropping", rarity: "Mythic", image: "https://i.ibb.co/YT8ks3kG/IMG-20260905-000445.jpg" },
-  { name: "Dark Jonin", value: "60,000", demand: 8, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/1tFj8ZSJ/IMG-20260905-000512.jpg" },
-  { name: "Ghost Pirate", value: "50,000", demand: 4, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/mCqRz8Cx/IMG-20260905-000623.jpg" },
+  { name: "Dark Jonin", value: "70,000", demand: 8, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/1tFj8ZSJ/IMG-20260905-000512.jpg" },
+  { name: "Ghost Pirate", value: "60,000", demand: 4, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/mCqRz8Cx/IMG-20260905-000623.jpg" },
 
   // --- Скриншот 2: Нижний ряд (Legendary & Mythic) ---
   { name: "Groll", value: "1,000", demand: 1, trend: "dropping", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Groll" },
-  { name: "Sniper King", value: "25,000", demand: 2, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/W45rST2n/IMG-20260905-000604.jpg" },
-  { name: "Range Bean", value: "40,000", demand: 7, trend: "rising", rarity: "Mythic", image: "https://i.ibb.co/PZWYG7KF/IMG-20260905-000540.jpg" },
-  { name: "Excalibur", value: "40,000", demand: 10, trend: "rising", rarity: "Mythic", image: "https://i.ibb.co/4ggyN51R/IMG-20260905-000319.jpg" },
-  { name: "Sunflower", value: "25,000", demand: 5, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/R42VdrSz/IMG-20260905-000350.jpg" },
-  { name: "Minigunner", value: "30,000", demand: 3, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/kskdW21n/IMG-20260905-000639.jpg" },
+  { name: "Sniper King", value: "40,000", demand: 2, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/W45rST2n/IMG-20260905-000604.jpg" },
+  { name: "Range Bean", value: "60,000", demand: 7, trend: "rising", rarity: "Mythic", image: "https://i.ibb.co/PZWYG7KF/IMG-20260905-000540.jpg" },
+  { name: "Excalibur", value: "65,000", demand: 10, trend: "rising", rarity: "Mythic", image: "https://i.ibb.co/4ggyN51R/IMG-20260905-000319.jpg" },
+  { name: "Sunflower", value: "75,000", demand: 5, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/R42VdrSz/IMG-20260905-000350.jpg" },
+  { name: "Minigunner", value: "40,000", demand: 3, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/kskdW21n/IMG-20260905-000639.jpg" },
 
   // --- Скриншот 2: Средний ряд (Legendary) ---
   { name: "Arcane Mage", value: "2,000", demand: 2, trend: "dropping", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Arcane+Mage" },
