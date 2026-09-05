@@ -1,7 +1,7 @@
 const units = [
   // --- Скриншот 1: Нижний ряд (Mythic) ---
   { name: "Banker", value: "140,000+", demand: 6, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/fVGtTQwk/IMG-20260905-034548.jpg" },
-  { name: "Star Searcher", value: "250,000+", demand: 1, trend: "rising", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Star+Searcher" },
+  { name: "Star Searcher", value: "300,000+", demand: 1, trend: "rising", rarity: "Mythic", image: "https://placehold.co/200x200/1e1e2d/ef4444?text=Star+Searcher" },
   { name: "Swimmer", value: "90,000+", demand: 4, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/1tfxH0R8/IMG-20260904-225705.jpg" },
   { name: "Mermaid", value: "200,000+", demand: 8, trend: "rising", rarity: "Mythic", image: "https://i.ibb.co/HDnjFqr3/IMG-20260904-225609.jpg" },
   { name: "Seashell", value: "100,000+", demand: 7, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/rffVFc4g/IMG-20260904-225805.jpg" },
