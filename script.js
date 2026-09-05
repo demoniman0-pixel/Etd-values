@@ -25,9 +25,9 @@ const units = [
   // --- Скриншот 2: Нижний ряд (Legendary & Mythic) ---
   { name: "Groll", value: "1,000", demand: 1, trend: "dropping", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Groll" },
   { name: "Sniper King", value: "50,000-", demand: 2, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/W45rST2n/IMG-20260905-000604.jpg" },
-  { name: "Range Bean", value: "70,000+", demand: 7, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/PZWYG7KF/IMG-20260905-000540.jpg" },
-  { name: "Excalibur", value: "75,000+", demand: 10, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/4ggyN51R/IMG-20260905-000319.jpg" },
-  { name: "Sunflower", value: "75,000+", demand: 5, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/R42VdrSz/IMG-20260905-000350.jpg" },
+  { name: "Range Bean", value: "70,000+", demand: 5, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/PZWYG7KF/IMG-20260905-000540.jpg" },
+  { name: "Excalibur", value: "75,000+", demand: 5, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/4ggyN51R/IMG-20260905-000319.jpg" },
+  { name: "Sunflower", value: "85,000+", demand: 7, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/R42VdrSz/IMG-20260905-000350.jpg" },
   { name: "Minigunner", value: "50,000-", demand: 3, trend: "stable", rarity: "Mythic", image: "https://i.ibb.co/kskdW21n/IMG-20260905-000639.jpg" },
 
   // --- Скриншот 2: Средний ряд (Legendary) ---
@@ -35,7 +35,7 @@ const units = [
   { name: "Red Dragon", value: "1,500", demand: 4, trend: "fluctuating", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Red+Dragon" },
   { name: "Car Mechanic", value: "1,000", demand: 2, trend: "dropping", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Car+Mechanic" },
   { name: "Frost Mage", value: "1,000", demand: 3, trend: "stable", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Frost+Mage" },
-  { name: "Electric Fence", value: "3,500", demand: 2, trend: "dropping", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Electric+Fence" },
+  { name: "Electric Fence", value: "3,500", demand: 3, trend: "dropping", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Electric+Fence" },
   { name: "Electric Shroom", value: "1,500", demand: 2, trend: "dropping", rarity: "Legendary", image: "https://placehold.co/200x200/1e1e2d/ec4899?text=Electric+Shroom" },
 
   // --- Скриншот 2: Верхний ряд (Legendary) ---
